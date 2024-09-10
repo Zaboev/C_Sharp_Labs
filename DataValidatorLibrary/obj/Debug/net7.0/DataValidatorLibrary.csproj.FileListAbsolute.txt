@@ -1,0 +1,11 @@
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\bin\Debug\net7.0\DataValidatorLibrary.deps.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\bin\Debug\net7.0\DataValidatorLibrary.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\bin\Debug\net7.0\DataValidatorLibrary.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\DataValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\DataValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\DataValidatorLibrary.AssemblyInfo.cs
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\DataValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\DataValidatorLibrary.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\refint\DataValidatorLibrary.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\DataValidatorLibrary.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\DataValidatorLibrary\obj\Debug\net7.0\ref\DataValidatorLibrary.dll
