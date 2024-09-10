@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sixth_Ex/1.0.0": {
+        "dependencies": {
+          "DataValidatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Sixth_Ex.dll": {}
+        }
+      },
+      "DataValidatorLibrary/1.0.0": {
+        "runtime": {
+          "DataValidatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sixth_Ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataValidatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
