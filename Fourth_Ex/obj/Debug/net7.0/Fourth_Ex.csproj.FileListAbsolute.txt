@@ -1,0 +1,14 @@
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\bin\Debug\net7.0\Fourth_Ex.exe
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\bin\Debug\net7.0\Fourth_Ex.deps.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\bin\Debug\net7.0\Fourth_Ex.runtimeconfig.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\bin\Debug\net7.0\Fourth_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\bin\Debug\net7.0\Fourth_Ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.AssemblyInfoInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.AssemblyInfo.cs
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\refint\Fourth_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\Fourth_Ex.genruntimeconfig.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fourth_Ex\obj\Debug\net7.0\ref\Fourth_Ex.dll

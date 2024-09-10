@@ -1,0 +1,14 @@
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\bin\Debug\net7.0\Fifth_Ex.exe
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\bin\Debug\net7.0\Fifth_Ex.deps.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\bin\Debug\net7.0\Fifth_Ex.runtimeconfig.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\bin\Debug\net7.0\Fifth_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\bin\Debug\net7.0\Fifth_Ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.AssemblyInfoInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.AssemblyInfo.cs
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\refint\Fifth_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\Fifth_Ex.genruntimeconfig.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Fifth_Ex\obj\Debug\net7.0\ref\Fifth_Ex.dll
