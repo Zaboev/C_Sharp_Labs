@@ -1,0 +1,14 @@
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\bin\Debug\net7.0\Second_Ex.exe
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\bin\Debug\net7.0\Second_Ex.deps.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\bin\Debug\net7.0\Second_Ex.runtimeconfig.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\bin\Debug\net7.0\Second_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\bin\Debug\net7.0\Second_Ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.AssemblyInfoInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.AssemblyInfo.cs
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\refint\Second_Ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\Second_Ex.genruntimeconfig.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\Second_Ex\obj\Debug\net7.0\ref\Second_Ex.dll

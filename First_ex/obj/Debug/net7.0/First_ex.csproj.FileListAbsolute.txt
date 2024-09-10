@@ -1,0 +1,14 @@
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\bin\Debug\net7.0\First_ex.exe
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\bin\Debug\net7.0\First_ex.deps.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\bin\Debug\net7.0\First_ex.runtimeconfig.json
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\bin\Debug\net7.0\First_ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\bin\Debug\net7.0\First_ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.AssemblyInfoInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.AssemblyInfo.cs
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.csproj.CoreCompileInputs.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\refint\First_ex.dll
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.pdb
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\First_ex.genruntimeconfig.cache
+C:\Users\Artem Zabiev\source\repos\LabsC#\First_ex\obj\Debug\net7.0\ref\First_ex.dll
